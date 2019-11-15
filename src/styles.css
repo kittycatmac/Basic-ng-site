@@ -1,4 +1,3 @@
-/* You can add global styles to this file, and also import other style files */
 /*--------------------------------------------------------------
 Accessibility
 --------------------------------------------------------------*/
@@ -37,7 +36,7 @@ Typography
 --------------------------------------------------------------*/
 
 body {
-	margin: 0;
+	margin: 30;
 }
 
 body,
@@ -177,7 +176,6 @@ General styling
 .main-content,
 .sidebar,
 .footer-content {
-	margin-bottom: 1em;
     padding: 1em;
     color: white;
 
